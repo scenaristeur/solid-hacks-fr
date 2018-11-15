@@ -8,9 +8,7 @@ description: Hacks for Solid
 
 ### Preface
 
-Ce livre assume que vous êtes déjà familier avec [solid](https://solid.mit.edu/), que vous soyez détenteur d'un POD, et que ayez déjà utilisé le [data browser](https://github.com/solid/userguide).
-Si ce n'est pas le cas, jetez un oeil à l'[Appendix A](https://solid.gitbook.io/solid-hacks/appendices/appendix-a-solid-resources) avant de commencer. _Solid Hacks Fr est une traduction de [Solid Hacks](https://solid.gitbook.io/solid-hacks/) en cours de rédaction_.
-
+This book assumes familiarity with the basics of [solid](https://solid.mit.edu/).  That you have a solid pod, and have used the [data browser](https://github.com/solid/userguide).  If not, please review [Appendix A](https://solid.gitbook.io/solid-hacks/appendices/appendix-a-solid-resources), before starting.  _Solid Hacks is a Work In Progress_.
 
 ### Introduction
 
@@ -23,3 +21,4 @@ This book covers but a fraction of what is possible in solid.  It hopefully illu
 The book is organized in no particular order.  Contributions are welcome to new chapters.  
 
 So without further ado, let's begin!
+
