@@ -29,3 +29,5 @@ Cependant, le plus important encore, cela peut vous inciter à créer et à util
 Ce livre est organisé sans ordre particulier. [Toute contribution est évidemment la bienvenue](https://github.com/scenaristeur/solid-hacks-fr/pulls).
 
 Bon, sans plus attendre, commençons !
+
+--> https://scenaristeur.gitbook.io/solid-hacks-fr/
