@@ -19,11 +19,13 @@ Si ce n'est pas le cas, jetez un oeil à l'[Appendix A](https://solid.gitbook.io
 La plateform [solid](https://solid.mit.edu/\) est le plus scalables des environnements de programmation, depuis le web lui-même. Il existe des guides, des tutoriaux et des démos, qui vous montrent la base de ce que Solid peut faire. Mais pour tirer le meilleur de Solid, vous allez avoir besoin de pousser la plateform dans ses retranchements.
 
 
-/// A traduire
-Solid hacks shows you how to have the most satisfying web experience ever.  You don't need programming ability.  Just the ability to click, drag and drop files, and edit text.  This will enable you to combine apps, data and functionality in new innovative ways.
 
-This book covers but a fraction of what is possible in solid.  It hopefully illustrates some interesting tips and tricks.  However, more importantly, it can influence you to create and mash up all these capabilities into new discoveries.
+Solid Hacks Fr vous montre la meilleure façon de profiter de la meilleure expérience sur le web. Vous n'avez besoin d'aucun connaissance en programmation. Si vous êtes capable de clicquer, copier / coller
+et d'éditer du texte, vous serez capable de combiner des applications, les données et des fonctionnalités selon des procédés totalement innovants.
 
-The book is organized in no particular order.  Contributions are welcome to new chapters.  
+Ce livre ne couvre qu'une petite partie de ce qu'il est possible de faire avec Solid. Nous espérons ici vous montrer quelques astuces qui faciliteront votre appropriation de Solid.
+Cependant, le plus important encore, cela peut vous inciter à créer et à utiliser toutes ces fonctionnalités pour vous créer nouvelles expériences et découvertes.
 
-So without further ado, let's begin!
+Ce livre est organisé sans ordre particulier. [Toute contribution est évidemment la bienvenue](https://github.com/scenaristeur/solid-hacks-fr/pulls).
+
+Bon, sans plus attendre, commençons !
