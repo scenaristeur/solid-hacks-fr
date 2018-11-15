@@ -2,9 +2,10 @@
 
 ### Introduction
 
-This hack enables you to host traditional web pages on your Solid pod.  Solid is 100% backwards compatible with the existing web.  Hosting a webpage on your pod couldn't be easier.  It can either be a normal HTML page.  Or interactive using JavaScript.
+Cette astuce vous permet d'héberger des pages web traditionnelles sur votre POD Solid.
+Solid est 100% compatible avec le web existant. Héberger une page web sur votre POD ne peut être plus simple. Vous pouvez aussi bien y mettre une page html statique que du javascript.
 
-We're going to create public web page hosted on your Solid pod, which can be accessed from:
+On va créer une page publique hébergée sur votre POD Solid, qui sera accessible à l'adresse :
 
 [https://{yourname.solidpod}/public/mysite/webpage.html](https://{yourname.solidpod}/public/mysite/webpage.html)
 
@@ -12,11 +13,11 @@ We're going to create public web page hosted on your Solid pod, which can be acc
 
 Browse to your solid pod. Since you want to offer your web page to everyone on the Internet go to your `public` folder. Within your `public` folder click the green + sign on your [databrowser](https://github.com/solid/userguide) and click the `folder` icon and give this new folder the name _mysite_. Now click the new green + sign within the _mysite_ folder and create a new `source` by clicking the icon and give this the name `webpage.html`.
 
-![Create a webpage with the databrowser](/.gitbook/assets/hacks-webpage.png)
+![Create a webpage with the databrowser](../../.gitbook/assets/hacks-webpage.png)
 
 This will create a file `webpage.html` in your public _mysite_ folder. Expand webpage.html and hover over the top which will give you the ability to edit the source.
 
-![Edit webpage source](/.gitbook/assets/hacks-webpage-edit.png)
+![Edit webpage source](../../.gitbook/assets/hacks-webpage-edit.png)
 
 In the textbox type in something \(or paste\) something suitably kitch. Example
 
